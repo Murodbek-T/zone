@@ -1,0 +1,327 @@
+/* Mobile M */
+@media (max-width: 375px) {
+  .nav-right i {
+    display: block;
+  }
+
+  .nav-right ul {
+    display: none;
+  }
+
+  /* Main */
+  .main {
+    flex-direction: column;
+    margin-top: 5rem;
+  }
+
+  .main-text {
+    width: 18rem;
+    text-align: center;
+  }
+
+  .main-text h1 {
+    font-size: 2.2rem;
+    line-height: 42px;
+  }
+
+  .main-text p {
+    fonts: 0.8rem;
+  }
+
+  .main-right img {
+    width: 25rem;
+    height: 25rem;
+  }
+  /* Main */
+
+  /* Services */
+  .services-text {
+    text-align: center;
+  }
+
+  .services-text h2 {
+    font-size: 2rem;
+  }
+
+  .services-text p {
+    width: 18rem;
+    font-size: 0.9rem;
+  }
+
+  .service {
+    text-align: center;
+  }
+
+  .service p {
+    width: 15rem;
+    color: #fff;
+    font-size: 0.8rem;
+    line-height: 26px;
+  }
+  /* Services */
+
+  /* Article */
+  article {
+    width: 18rem;
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+    text-align: center;
+  }
+
+  .article2 {
+    flex-direction: column;
+  }
+
+  .left img {
+    width: 25rem;
+    height: 25rem;
+    margin-top: 3rem;
+  }
+
+  .right {
+    align-items: center;
+  }
+
+  .right h2 {
+    width: 18rem;
+    font-size: 1.8rem;
+    line-height: 42px;
+  }
+
+  .right p {
+    color: #fff;
+    font-weight: 400;
+    line-height: 26px;
+    width: 18rem;
+    font-size: 0.8rem;
+  }
+  /* Article */
+
+  /* Email */
+  .email {
+    text-align: center;
+  }
+
+  .email h1 {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+
+  .email p {
+    font-size: 0.8rem;
+  }
+
+  .wrapper {
+    width: 90%;
+    height: 2rem;
+    padding: 1.2rem 0.5rem;
+  }
+
+  input {
+    height: 2rem;
+    font-size: 0.8rem;
+  }
+
+  .input-btn {
+    height: 2rem;
+    font-size: 0.8rem;
+    width: 9rem;
+  }
+
+  /* Email */
+
+  /* Footer */
+  footer {
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .footer-right {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+
+  .footer-right ul {
+    align-items: center;
+    gap: 1.2rem;
+  }
+
+  .copyright {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .copyright p {
+    font-size: 0.7rem;
+  }
+  /* Footer */
+}
+
+/* Mobile M */
+@media (max-width: 425px) {
+  .nav-right i {
+    display: block;
+  }
+
+  .nav-right ul {
+    display: none;
+  }
+
+  /* Main */
+  .main {
+    flex-direction: column;
+    margin-top: 5rem;
+  }
+
+  .main-text {
+    width: 18rem;
+    text-align: center;
+  }
+
+  .main-text h1 {
+    font-size: 2.2rem;
+    line-height: 42px;
+  }
+
+  .main-text p {
+    fonts: 0.8rem;
+  }
+
+  .main-right img {
+    width: 25rem;
+    height: 25rem;
+  }
+  /* Main */
+
+  /* Services */
+  .services-text {
+    text-align: center;
+  }
+
+  .services-text h2 {
+    font-size: 2rem;
+  }
+
+  .services-text p {
+    width: 18rem;
+    font-size: 0.9rem;
+  }
+
+  .service {
+    text-align: center;
+  }
+
+  .service p {
+    width: 15rem;
+    color: #fff;
+    font-size: 0.8rem;
+    line-height: 26px;
+  }
+  /* Services */
+
+  /* Article */
+  article {
+    width: 18rem;
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+    text-align: center;
+  }
+
+  .article2 {
+    flex-direction: column;
+  }
+
+  .left img {
+    width: 25rem;
+    height: 25rem;
+    margin-top: 3rem;
+  }
+
+  .right {
+    align-items: center;
+  }
+
+  .right h2 {
+    width: 18rem;
+    font-size: 1.8rem;
+    line-height: 42px;
+  }
+
+  .right p {
+    color: #fff;
+    font-weight: 400;
+    line-height: 26px;
+    width: 18rem;
+    font-size: 0.8rem;
+  }
+  /* Article */
+
+  /* Email */
+  .email {
+    text-align: center;
+  }
+
+  .email h1 {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+
+  .email p {
+    font-size: 0.8rem;
+  }
+
+  .wrapper {
+    width: 90%;
+    height: 2rem;
+    padding: 1.2rem 0.5rem;
+  }
+
+  input {
+    height: 2rem;
+    font-size: 0.8rem;
+  }
+
+  .input-btn {
+    height: 2rem;
+    font-size: 0.8rem;
+    width: 9rem;
+  }
+
+  /* Email */
+
+  /* Footer */
+  footer {
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .footer-right {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+
+  .footer-right ul {
+    align-items: center;
+    gap: 1.2rem;
+  }
+
+  .copyright {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .copyright p {
+    font-size: 0.7rem;
+  }
+  /* Footer */
+}
